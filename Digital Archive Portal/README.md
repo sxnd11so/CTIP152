@@ -1,4 +1,3 @@
-
 # 📚 Digital Archive Portal
 
 A command-line library management system built in Python, designed to help librarians register, log in, and manage a digital book inventory.
@@ -39,11 +38,8 @@ The Digital Archive Portal simulates a basic library system where staff can regi
 ## How to Run
 
 ```bash
-# Run in Jupyter Notebook
-jupyter notebook main.ipynb
+python main.py
 ```
-
-> **Note:** This project uses `input()` and is designed to run in a terminal or Jupyter Notebook environment, not as a web app.
 
 ---
 
@@ -60,7 +56,6 @@ jupyter notebook main.ipynb
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
 
